@@ -29,6 +29,7 @@ nav {
 
 .hamburger{
     justify-self: end;
+    cursor: pointer;
 }
 
 section {
