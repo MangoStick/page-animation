@@ -1,5 +1,5 @@
 # Page Animation Preview
 
 <p>
-  <img src="img/preview.png">
+  <img src="screenshots/preview.png">
 </p>
